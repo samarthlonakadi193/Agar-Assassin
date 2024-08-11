@@ -59,3 +59,11 @@ Open your web browser and navigate to http://localhost:9000 to start playing the
 ├─ package.json
 └─ server.js
 ```
+# How to Play
+   1) Enter your name and start the game.
+   2) Move your mouse to control the direction of your cell.
+   3) Absorb orbs to grow larger.
+   4) Absorb other players to become the biggest cell in the game.
+   5) Avoid larger players who can absorb you.
+# Controls
+   Mouse: Move your cell in the direction of the cursor.
