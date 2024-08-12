@@ -2,10 +2,13 @@
 Agar Assassin is a multiplayer online game inspired by the popular game "Agar.io". Players control a cell that must grow by absorbing orbs and other players in a shared environment. The objective is to become the largest cell in the game.
 
 # Features
-Multiplayer Gameplay: Compete against other players in real-time.
-Dynamic Environment: The game world is populated with orbs that players can absorb to grow.
-Leaderboard: Keep track of the top players in the game.
-Responsive Design: The game interface adapts to different screen sizes.
+- Multiplayer Gameplay: Compete against other players in real-time.
+
+- Dynamic Environment: The game world is populated with orbs that players can absorb to grow.
+
+- Leaderboard: Keep track of the top players in the game.
+
+- Responsive Design: The game interface adapts to different screen sizes.
 
 # Getting Started
 Prerequisites:
@@ -16,7 +19,7 @@ Prerequisites:
 
    npm (v6.x or higher)
 
-# installation
+# Istallation
 Clone the repository:
 ```
   git clone https://github.com/samarthlonakadi193/Agar-Assassin.git
