@@ -19,7 +19,7 @@ Prerequisites:
 
    npm (v6.x or higher)
 
-# Istallation
+# Installation
 Clone the repository:
 ```
   git clone https://github.com/samarthlonakadi193/Agar-Assassin.git
